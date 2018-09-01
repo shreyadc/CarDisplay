@@ -1,4 +1,4 @@
-# Wunder
+# CarDisplay
 
 A small scalable application designed with MVVM architecture.
 
